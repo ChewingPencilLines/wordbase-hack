@@ -17,7 +17,7 @@ angular.module('wordBaseHack', [])
         'RCWOTINTIN',
         'SEAIHGFSRO',
         'PONCSMRFET',
-        'RUEOYNIOHN',
+        'RUEOYNIONH',
         'SGTIRAOISO',
         'AIESMHPVIC',
         'RONYPKALEI',
