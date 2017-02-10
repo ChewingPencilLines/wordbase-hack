@@ -9,19 +9,19 @@ angular.module('wordBaseHack', [])
 
     // SERIALISTS missing
     that.puzzle = [
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
-          'ABCDEFGHIJ',
+          'DIKNMBAPOI',
+          'NOYOLESCNC',
+          'MGALPDLSHO',
+          'RAPIHEDESI',
+          'STNROSANCE',
+          'GUAGIAGALV',
+          'RVINMOERAN',
+          'IEMYNELNIG',
+          'KNLSEDASTZ',
+          'ILEPISPUEI',
+          'NEAMNOLMDR',
+          'LTRHIZENOY',
+          'CUCSOTLURP',
       ];
 
 
